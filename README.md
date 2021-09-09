@@ -30,4 +30,7 @@
 - go to your browser and run localhost:3001
 
 ## Website
-*https://github.com/GarySanchez012/express-note-taker*
+- github pages
+    - *https://garysanchez012.github.io/express-note-taker/*
+- github project
+    - *https://github.com/GarySanchez012/express-note-taker*
