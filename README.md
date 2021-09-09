@@ -25,5 +25,9 @@
 ![2 notes](/public/images/express-note-taker.png)
 ![1 note](/public/images/express-note-taker-2.png)
 
+## Instructions
+- Pull code down from github and run npm start
+- go to your browser and run localhost:3001
+
 ## Website
-*https://garysanchez012.github.io/express-note-taker/*
+*https://github.com/GarySanchez012/express-note-taker*
