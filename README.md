@@ -22,6 +22,8 @@
     - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Mock-Up
+![2 notes](/public/images/express-note-taker.png)
+![1 note](/public/images/express-note-taker-2.png)
 
 ## Website
 *https://garysanchez012.github.io/express-note-taker/*
