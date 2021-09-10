@@ -35,5 +35,5 @@
 - github project
     - *https://github.com/GarySanchez012/express-note-taker*
 
-    ## Walkthrough Video
-    https://drive.google.com/file/d/1EiLw0BFiU6kurdtm6ZtFYhEN1H-JPElW/view?usp=sharing
+## Walkthrough Video
+https://drive.google.com/file/d/1EiLw0BFiU6kurdtm6ZtFYhEN1H-JPElW/view?usp=sharing
